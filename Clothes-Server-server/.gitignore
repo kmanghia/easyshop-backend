@@ -1,0 +1,6 @@
+node_module/*
+.env
+/node_modules
+/src/assets
+dist/
+*.log
