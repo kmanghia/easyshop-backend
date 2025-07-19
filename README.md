@@ -1,4 +1,4 @@
-# Clothes E-commerce Server
+# DATN_Clothes_E-commerce_Server
 
 A Node.js back-end server for an e-commerce clothing platform developed by Trần Nghĩa.
 
